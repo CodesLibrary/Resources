@@ -9,11 +9,11 @@
 
 ## Task Runner
 - https://gulpjs.com 
-  #### Gulp Js
-  - npm install gulp-cli -g
-  - npm install gulp -D
-  - gulp --help
-  - gulp
+#### Gulp Js
+- npm install gulp-cli -g
+- npm install gulp -D
+- gulp --help
+- gulp
 
 #### Global
 - https://browsersync.io/docs/gulp
