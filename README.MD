@@ -8,9 +8,7 @@
 - https://cli.angular.io 
 
 ## Task Runner
-#### Gulp.js
-##### https://gulpjs.com 
-
+#### Gulp.js https://gulpjs.com 
 - npm install gulp-cli -g
 - npm install gulp -D
 - gulp --help
