@@ -1,12 +1,12 @@
 # Resources
 
 ## JQuery
-### https://code.jquery.com 
+- https://code.jquery.com 
 ## Angular
 - https://angular.io
 - https://cli.angular.io 
 ## Task Runner
-### https://gulpjs.com 
+- https://gulpjs.com 
 ## HTML
 - https://getbootstrap.com 
 ## CSS
